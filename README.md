@@ -18,7 +18,7 @@ pip install PreProcessingNinja
 ```
 ## Github
 
-- [@Github](https://github.com/Bijoy99roy/PreProcessingNinja)
+- [Github](https://github.com/Bijoy99roy/PreProcessingNinja)
 
   
 ## Example
@@ -35,7 +35,7 @@ d = {
 }
 
 #calling method
-df = ninja.impute_missing_value(datafra,e, d)
+df = ninja.impute_missing_value(dataframe, d)
 ```
 
   
